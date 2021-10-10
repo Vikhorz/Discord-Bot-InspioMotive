@@ -4,4 +4,4 @@
 
 - A reliable monitoring service is a must today. 
 - Set an HTTP/S, ping, port, keyword, or heartbeat monitor and get notifications to your email, phone, Telegram, Slack, Twitter, Zapier, and others.
-- https://uptimerobot.com
+- Create your account now on https://uptimerobot.com and by using the online IDE code editor you can get the URL of your main.py and monitor it.
