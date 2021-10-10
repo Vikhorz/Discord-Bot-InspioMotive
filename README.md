@@ -19,6 +19,7 @@ $inspire <-- this Command tells the Bot to Send an Inspirational Message to the 
 
  $list <-- this Command returns the list of custom messages added by the people.
  $new <-- this Command lets you add a custom message to the Database of the Bot.
+ 
 ![image](https://user-images.githubusercontent.com/76783878/136698668-63222819-5645-4e8e-869a-d9feecb5086f.png)
 
 
