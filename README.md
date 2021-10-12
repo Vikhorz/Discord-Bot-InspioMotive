@@ -6,7 +6,7 @@
 
 # Some Screen Shots for more Details:
 
-$inspire <-- this Command tells the Bot to Send an Inspirational Message to the Channel that the Command requested.
+$inspire <-- this Command tells the Bot to Send an Inspirational Message to the Channel which the Command requested.
 
 ![image](https://user-images.githubusercontent.com/76783878/136698241-1d986554-304e-4e3b-897e-729dc863412d.png)
 
