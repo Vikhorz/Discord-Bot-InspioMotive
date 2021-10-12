@@ -1,6 +1,7 @@
-# A discord Server Bot made with Python, This bot helps people feel better by inspiring them with motivational quotes or by responding with a great message, also the users of the server can create custom messages by telling the bot with Commands.
+# A discord Server Bot made with Python
 
-- (IMPORTANT) Please check .md files in the repository for more information about the Pyhton code!
+- This bot helps people feel better by inspiring them with motivational quotes or by responding with a great message, also the users of the server can create custom messages by telling the bot with Commands.
+- **(IMPORTANT) Please check .md files in the repository for more information about the Pyhton code!
 
 
 # Some Screen Shots for more Details:
